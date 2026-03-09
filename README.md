@@ -33,24 +33,34 @@
 
 Android
 - Kotlin · Android SDK · CameraX · SensorManager · Wear OS · WebView
+
 Architecture / Async
 - Coroutines · RxJava2 · StateFlow
+
 Networking
 - Retrofit2 · OkHttp · WebSocket (STOMP)
+
 AI / ML
 - TensorFlow Lite · YOLOv8 · CNN · ML Kit
+
 Backend / BaaS
 - Firebase · Cloud Firestore · Firebase Authentication
+
 Visualization
 - MPAndroidChart
+
 Map
 - Kakao Maps SDK
+
 Web
 - React · Tailwind CSS
+
 Backend
 - Spring Boot (API Server)
+
 Infra / DevOps
 - Docker · Kubernetes (Minikube)
+
 Deploy / Auth
 - JWT · Supabase · Clerk · Vercel
 
