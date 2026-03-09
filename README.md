@@ -41,10 +41,13 @@ Networking
 - Retrofit2 · OkHttp · WebSocket (STOMP)
 
 AI / ML
-- TensorFlow Lite · YOLOv8 · CNN · ML Kit
+- TensorFlow Lite · YOLOv8 · ML Kit
 
-Backend / BaaS
-- Firebase · Cloud Firestore · Firebase Authentication
+Backend
+- Spring Boot (API Server)
+  
+BaaS
+- Firebase · Cloud Firestore · Supabase
 
 Visualization
 - MPAndroidChart
@@ -55,14 +58,14 @@ Map
 Web
 - React · Tailwind CSS
 
-Backend
-- Spring Boot (API Server)
-
 Infra / DevOps
 - Docker · Kubernetes (Minikube)
 
 Deploy / Auth
-- JWT · Supabase · Clerk · Vercel
+- JWT · Firebase Authentication · Clerk · Vercel
+
+Tools
+- Git · GitHub · Android Studio · VS Code
 
 ---
 
