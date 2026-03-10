@@ -9,7 +9,7 @@
 | Project | Description | Tech |
 |------|-------------|------|
 | [Driver State Monitoring](https://github.com/ed-capstone-design/android-front) | AI 기반 운전자 상태 감지 시스템 | Android, TFLite, WebSocket, Spring |
-| [Emotion Regulation App](https://github.com/JinsuPark01/Emotion-Regulation-Training-App/blob/main/README.md) | 감정 기록 기반 정서 관리 앱 | Android, Firebase |
+| [Emotion Regulation App](https://github.com/JinsuPark01/Emotion-Regulation-Training-App) | 감정 기록 기반 정서 관리 앱 | Android, Firebase |
 
 🎥 **Demo Video**
 - **Driver State Monitoring**
