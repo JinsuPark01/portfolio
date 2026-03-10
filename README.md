@@ -12,10 +12,12 @@
 | [Emotion Regulation App](https://github.com/JinsuPark01/emotionalApp) | 감정 기록 기반 정서 관리 앱 | Android, Firebase |
 
 🎥 **Demo Video**
-- **Driver State Monitoring**  
+- **Driver State Monitoring**
+
 https://github.com/user-attachments/assets/a46e6d63-d22b-4fec-82d7-91e211ee34b1 (2분 이전까지)
 
 - **Emotion Regulation App**
+
 https://github.com/user-attachments/assets/08486867-2274-4b0b-b429-77569ffa7e3c (1분 40초 이후)
 
 ---
