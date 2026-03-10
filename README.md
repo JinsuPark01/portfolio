@@ -13,7 +13,8 @@
 
 🎥 **Demo Video**
 - **Driver State Monitoring**  
-  [![Watch Demo](https://img.youtube.com/vi/xUGpD3zFkSE/0.jpg)](https://www.youtube.com/watch?v=xUGpD3zFkSE)
+https://github.com/user-attachments/assets/a46e6d63-d22b-4fec-82d7-91e211ee34b1
+
 - **Emotion Regulation App**  
   [Watch Demo](https://youtu.be/xxxx)
 ---
