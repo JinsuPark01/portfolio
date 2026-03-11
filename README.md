@@ -8,10 +8,10 @@
 
 | Project | Description | Tech |
 |------|-------------|------|
-| [Driver State Monitoring](https://github.com/JinsuPark01/Driver-State-Monitoring-System) | AI 기반 운전자 상태 감지 시스템 | Android, TFLite, WebSocket, Spring |
-| [Emotion Regulation App](https://github.com/JinsuPark01/Emotion-Regulation-Training-App) | 감정 기록 기반 정서 관리 앱 | Android, Firebase |
+| [Driver State Monitoring](https://github.com/JinsuPark01/Driver-State-Monitoring-System) | CameraX + TensorFlow Lite 기반 실시간 운전자 위험 행동 감지 시스템 | Android, TFLite, WebSocket, Spring |
+| [Emotion Regulation App](https://github.com/JinsuPark01/Emotion-Regulation-Training-App) | 감정 기록 및 주간 설문 기반 정서 관리 Android 애플리케이션 | Android, Firebase |
 
-🎥 **Demo Video**
+### 🎥 Demo
 - **Driver State Monitoring**
 
 https://github.com/user-attachments/assets/a46e6d63-d22b-4fec-82d7-91e211ee34b1 (2분 이전까지)
