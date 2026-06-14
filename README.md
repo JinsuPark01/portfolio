@@ -5,9 +5,10 @@
 ---
 
 ## 🚀 Main Projects
-
+https://github.com/JinsuPark01/WhatDoingApp
 | Project | Description | Tech |
 |------|-------------|------|
+| [Helpumta](https://github.com/JinsuPark01/WhatDoingApp) | 친구들과 그룹을 만들어 운동 기록을 공유하고, 하루의 기록을 한 장의 이미지로 추출하는 운동 기록 Android 애플리케이션 | Android, Firebase |
 | [Driver State Monitoring](https://github.com/JinsuPark01/Driver-State-Monitoring-System) | CameraX + TensorFlow Lite 기반 실시간 운전자 위험 행동 감지 시스템 | Android, TFLite, WebSocket, Spring |
 | [Emotion Regulation App](https://github.com/JinsuPark01/Emotion-Regulation-Training-App) | 감정 기록 및 주간 설문 기반 정서 관리 Android 애플리케이션 | Android, Firebase |
 
@@ -36,10 +37,10 @@ https://github.com/user-attachments/assets/08486867-2274-4b0b-b429-77569ffa7e3c 
 ## 🛠 Tech Stack
 
 Android
-- Kotlin · Android SDK · CameraX · SensorManager · Wear OS · WebView
+- Kotlin · Android SDK · CameraX · SensorManager · Wear OS · WebView · Compose
 
 Architecture / Async
-- Coroutines · RxJava2 · StateFlow
+- MVVM · MVI · Coroutines · RxJava2 · StateFlow
 
 Networking
 - Retrofit2 · OkHttp · WebSocket (STOMP)
