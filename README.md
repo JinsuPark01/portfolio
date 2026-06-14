@@ -5,7 +5,6 @@
 ---
 
 ## 🚀 Main Projects
-https://github.com/JinsuPark01/WhatDoingApp
 | Project | Description | Tech |
 |------|-------------|------|
 | [Helpumta](https://github.com/JinsuPark01/WhatDoingApp) | 친구들과 그룹을 만들어 운동 기록을 공유하고, 하루의 기록을 한 장의 이미지로 추출하는 운동 기록 Android 애플리케이션 | Android, Firebase |
